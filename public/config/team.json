@@ -1,47 +1,66 @@
 {
   "title": "Meet Your Elastic Team",
-  "subtitle": "Before we dive in—here's who you'll be working with today",
+  "subtitle": "Before we dive in\u2014here's who you'll be working with today",
   "members": [
     {
-      "id": "cat",
-      "name": "Cat Owens",
-      "role": "Senior Account Executive",
-      "email": "cat.owens@elastic.co",
-      "phone": "202.360.9384",
-      "color": "#48EFCF",
-      "initials": "CO",
-      "photo": "/photos/cat-profile.jpeg"
-    },
-    {
-      "id": "daniel",
-      "name": "Daniel Barr",
+      "id": "trevor",
+      "name": "Trevor Yeager",
       "role": "Senior Solutions Architect",
-      "email": "daniel.barr@elastic.co",
-      "phone": "914.619.6230",
+      "email": "trevor.yeager@elastic.co",
+      "phone": "202.696.0191",
+      "color": "#FF957D",
+      "initials": "TY",
+      "photo": "/photos/trevor-profile.png"
+    },
+    {
+      "id": "joe",
+      "name": "Joe Pilkington",
+      "role": "Account Executive, USAF",
+      "email": "joseph.pilkington@elastic.co",
+      "phone": "918.695.4279",
       "color": "#0B64DD",
-      "initials": "DB",
-      "photo": "/photos/dan-profile.jpeg"
+      "initials": "JP",
+      "photo": "/photos/joe-profile.png"
     },
     {
-      "id": "gene",
-      "name": "Gene Kent",
-      "role": "RVP Defense Industrial Base",
-      "email": "gene.kent@elastic.co",
-      "phone": "813.205.6097",
+      "id": "bill",
+      "name": "Bill Kacergis",
+      "role": "Pub Sec Account Executive I",
+      "email": "william.kacergis@elastic.co",
+      "phone": "610.999.6839",
       "color": "#F04E98",
-      "initials": "GK",
-      "photo": "/photos/gene-profile.jpeg"
+      "initials": "BK",
+      "photo": "/photos/bill-profile.png"
     },
     {
-      "id": "matt",
-      "name": "Matt Wall",
-      "role": "Sr. Regional Service Provider",
-      "email": "matthew.wall@elastic.co",
-      "phone": "831.756.6386",
+      "id": "sean",
+      "name": "Sean Placchetti",
+      "role": "DoD Customer Architect (Strategic Accounts)",
+      "email": "sean.placchetti@elastic.co",
+      "phone": "412.680.8006",
+      "color": "#48EFCF",
+      "initials": "SP",
+      "photo": "/photos/sean-profile.png"
+    },
+    {
+      "id": "david",
+      "name": "David Babyak",
+      "role": "RVP, Sales",
+      "email": "david.babyak@elastic.co",
+      "phone": "228.239.7082",
       "color": "#FEC514",
-      "initials": "MW",
-      "photo": "/photos/matt-profile.jpeg"
+      "initials": "DB",
+      "photo": "/photos/david-profile.png"
+    },
+    {
+      "id": "ben",
+      "name": "Ben Fertich",
+      "role": "Account Executive, US Air Force",
+      "email": "benjamin.fertich@elastic.co",
+      "phone": "717.357.6501",
+      "color": "#FF957D",
+      "initials": "BF",
+      "photo": "/photos/ben-profile.png"
     }
   ]
 }
-
